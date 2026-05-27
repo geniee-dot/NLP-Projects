@@ -20,6 +20,7 @@ Text Classification
 ## Results
 Model Accuracies:
 Naive Bayes:          0.9457755359394704
+
 Logistic Regression:  0.9407313997477932
 SVM:                  0.9457755359394704
 Random Forest:        0.8738965952080706
